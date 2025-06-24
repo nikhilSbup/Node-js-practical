@@ -1,0 +1,21 @@
+{
+  "name": "mca2403125",
+  "version": "1.0.0",
+  "main": "ex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "color": "^5.0.0",
+    "colors": "^1.4.0",
+    "lodash": "^4.17.21",
+    "lower-case": "^2.0.2",
+    "prompt-sync": "^4.2.0",
+    "text-is-upper-case": "^1.2.4",
+    "upper-case": "^2.0.2"
+  }
+}
