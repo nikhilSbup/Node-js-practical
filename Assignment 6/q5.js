@@ -1,0 +1,1 @@
+//write a node js application to copy the content of one file to another.
