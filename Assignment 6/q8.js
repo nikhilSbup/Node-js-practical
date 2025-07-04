@@ -7,7 +7,6 @@ const student = {
   name: "Alice Johnson",
   age: 20,
   courses: ["Math", "Physics", "English"],
-  isActive: true
 };
 
 // Convert object to JSON string
