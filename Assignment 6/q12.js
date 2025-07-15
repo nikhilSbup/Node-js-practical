@@ -1,0 +1,1 @@
+// write a program to copy the contents of source to destination
